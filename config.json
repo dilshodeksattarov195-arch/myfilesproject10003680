@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservtringify",
+        "uuid": 780160,
+        "checksum": "o2aug"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
